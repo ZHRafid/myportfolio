@@ -1,2 +1,2 @@
-My Simple Portfolio Website
+My Simple Personal Website
 
